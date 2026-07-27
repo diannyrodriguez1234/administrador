@@ -1,0 +1,6 @@
+{
+  "name": "Control de Deudas",
+  "description": "Aplicación móvil ultra ligera y minimalista para control de deudas y calendario de pagos offline.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
